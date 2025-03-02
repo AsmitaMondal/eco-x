@@ -69,7 +69,6 @@ They make users **compete**, when the real challenge is **self-improvement.**
 
 The **About Page** sets the stage for Eco-X, introducing users to the platform with **visually appealing animations and an intuitive layout.**  
 
-![Screenshot 2025-03-02 164457](https://github.com/user-attachments/assets/7e6f3507-5d7e-40a0-ace7-40c1e799df86)
 
 ### 🛠️ Technologies Used  
 - **Streamlit** 🎨 – Powers the entire app, making it interactive and user-friendly.  

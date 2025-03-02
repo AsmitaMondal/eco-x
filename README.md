@@ -6,6 +6,9 @@ Hey there, eco-warrior! Ever wondered how much impact your daily choices have on
 From the food you eat 🍽️ to the way you travel 🚗, every decision adds up.  
 **But don’t worry, Eco-X is here to help!**  
 
+
+![Screenshot 2025-03-02 164457](https://github.com/user-attachments/assets/98b53b67-60af-495e-b2cd-fe2ef2d33287)
+
 ## 🚀 What is Eco-X?  
 Eco-X is a **next-gen carbon footprint tracker** designed to make sustainability more than just numbers on a screen.  
 It’s an **engaging, insightful, and action-driven** platform that helps you:  
@@ -66,6 +69,8 @@ They make users **compete**, when the real challenge is **self-improvement.**
 
 The **About Page** sets the stage for Eco-X, introducing users to the platform with **visually appealing animations and an intuitive layout.**  
 
+![Screenshot 2025-03-02 164457](https://github.com/user-attachments/assets/7e6f3507-5d7e-40a0-ace7-40c1e799df86)
+
 ### 🛠️ Technologies Used  
 - **Streamlit** 🎨 – Powers the entire app, making it interactive and user-friendly.  
 - **Lottie Animations** 🎥 – Enhances the experience with smooth, engaging visuals.  
@@ -84,6 +89,10 @@ Make sustainability **accessible, informative, and visually compelling** from th
 ## 🌍 FEATURE 1: Carbon Footprint Calculator  
 
 The **Carbon Footprint Calculator** is the core of **Eco-X**, allowing users to estimate their environmental impact based on their daily activities. By inputting data across multiple categories, users get a **detailed report** on their carbon emissions and **actionable insights** to reduce their footprint.  
+
+![Screenshot 2025-03-02 164619](https://github.com/user-attachments/assets/fda4c2d5-bfef-4b38-89b2-81ffbdc9bf21)
+
+
 
 ### 🎨 Fun Technologies Explored  
 From **interactive Folium maps** to **engaging Lottie animations** and **dynamic GIFs**, Eco-X blends **data and visuals** to make carbon footprint tracking both **insightful and exciting!** 🌍✨  
@@ -178,6 +187,8 @@ After calculating the user's estimated **carbon footprint**, Eco-X generates a *
 
 Staying informed is key to making sustainable choices. **Eco-X** helps users **stay up to date** with the latest environmental news through **automated web scraping** and **live search results**.  
 
+![Screenshot 2025-03-02 164642](https://github.com/user-attachments/assets/265a80e0-ff00-4972-ba57-ac2d147d1505)
+
 ### 🏛️ Trusted News Source  
 - Articles are scraped from **The Hindu**, one of the most **reliable and respected** news platforms in India, using **BeautifulSoup**.  
 
@@ -212,6 +223,8 @@ Users can **choose from various categories** to find news relevant to their inte
 ## 📝 FEATURE 3: Query and Report: Your Personal Research Assistant  
 
 Ever wished for a **custom, well-structured report** on a climate-related topic without the hassle of endless searching? **Eco-X** has you covered!  
+
+![Screenshot 2025-03-02 164718](https://github.com/user-attachments/assets/3d642505-c7bc-4679-bf7e-19cd8a69b1d7)
 
 ### 🔍 How It Works  
 - **🎤 Speak or Type** – Ask your climate-related question via text or voice input.  
